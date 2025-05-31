@@ -108,7 +108,7 @@ Whenever you feel stuck, rushed, or overloaded with ideas, pause and ask yoursel
 - **North Star Check**: Aligns with our vision of "making everyday shopping effortless."
 - **First Step**: Build a basic map prototype for 1 store and A/B test it.
 
-![[Pasted image 20250531121605.png]]
+![Pasted image 20250531121605.png](./images/Pasted%20image%2020250531121605.png)
 
 ---
 
