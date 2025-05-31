@@ -167,7 +167,7 @@ Whenever you're starting a new project, ask:
 - What’s our **Strategy**?
 If you can fill in those three blanks clearly, you're already thinking like a top-tier PM. 🚀
 
-![[Pasted image 20250531122155.png]]
+![Pasted image 20250531122155.png](./images/Pasted%20image%2020250531122155.png)
 
 ---
 
@@ -222,7 +222,7 @@ When analyzing a user problem, ask:
 - What might they be **feeling**?
 The gaps between these three often reveal the _real_ problems worth solving.
 
-![[Pasted image 20250531122532.png]]
+![Pasted image 20250531122532.png](./images/Pasted%20image%2020250531122532.png)
 
 ## Chapter 4: How to Prioritize and Maximize Opportunities
 
@@ -312,9 +312,9 @@ Look for problems that are:
 - **Unavoidable**: Users can’t work around it easily.
 - **Underserved**: Existing solutions suck or don’t exist.
 
-![[Pasted image 20250531123007.png]]
+![Pasted image 20250531123007.png](./images/Pasted%20image%2020250531123007.png)
 
-![[Pasted image 20250531123018.png]]
+![Pasted image 20250531123018.png](./images/Pasted%20image%2020250531123018.png)
 
 ---
 ## Chapter 5: Execution (Bringing a Product to Market)
@@ -380,7 +380,7 @@ To drive strong execution, a PM must lead across **4 key dimensions**:
 > **Clarity → Collaboration → Communication → Continuous Improvement**
 - This cycle keeps execution **focused, fluid, and outcome-driven**.
 
-![[Pasted image 20250531144611.png]]
+![Pasted image 20250531144611.png](./images/Pasted%20image%2020250531144611.png)
 
 ---
 ## Chapter 6: Do You Know Your PM Superpower?
@@ -458,8 +458,8 @@ You can rate each on two dimensions:
 - What needs **immediate attention**? (Potential blind spots.)
 - What’s a **stretch area** you’re excited to grow in?
 
-![[Pasted image 20250531144931.png]]
-![[Pasted image 20250531144942.png]]
+![Pasted image 20250531144931.png](./images/Pasted%20image%2020250531144931.png)
+![Pasted image 20250531144942.png](./images/Pasted%20image%2020250531144942.png)
 
 # Part Two: Acing the Product Management Interview
 
@@ -513,7 +513,7 @@ This section equips you with the tools to **ace product management interviews** 
 - Focus on frameworks and clarity, not speed or flash.
 - Interviews aren’t just about _passing_ — they’re a chance to _show how you think like a PM_.
 
-![[Pasted image 20250531145215.png]]
+![Pasted image 20250531145215.png](./images/Pasted%20image%2020250531145215.png)
 
 ## Chapter 8: The Compass Framework
 
@@ -550,7 +550,7 @@ It’s a 6-step approach to navigate product thinking in interviews:
 ### Key Takeaway:
 > You don’t need to memorize hundreds of interview answers — you need one **strong compass** that works everywhere.
 
-![[Pasted image 20250531145423.png]]
+![Pasted image 20250531145423.png](./images/Pasted%20image%2020250531145423.png)
 
 ## Chapter 9: Putting It Into Action
 
@@ -585,7 +585,7 @@ This chapter includes **6 sample case responses**. Each one maps neatly to a dif
 > Practice makes process permanent. These examples show that the Compass Framework is **repeatable, versatile**, and **customizable to any interview case**.
 
 
-![[Pasted image 20250531145636.png]]
+![Pasted image 20250531145636.png](./images/Pasted%20image%2020250531145636.png)
 
 ## Chapter 10: Additional Case-Question Tips
 ### Main Idea:
@@ -616,7 +616,7 @@ This chapter includes **6 sample case responses**. Each one maps neatly to a dif
 
 Mastering case questions is less about memorizing perfect responses, and more about showing up with a **clear thought process, curiosity, and product sense**.
 
-![[Pasted image 20250531145817.png]]
+![Pasted image 20250531145817.png](./images/Pasted%20image%2020250531145817.png)
 
 ## Chapter 11: Behavioral and Culture Questions
 ### Main Idea:
@@ -652,7 +652,7 @@ Here are areas you’ll likely be tested on:
 ### Key Takeaway:
 > Behavioral and culture questions are your chance to show you’re not just smart — you’re someone they want to build with.
 
-![[Pasted image 20250531145947.png]]
+![Pasted image 20250531145947.png](./images/Pasted%20image%2020250531145947.png)
 
 ---
 # **Part 3: Becoming a Great Product Thinker**
@@ -708,7 +708,7 @@ Here are areas you’ll likely be tested on:
 ### Key Takeaway:
 > Mindset is the multiplier. Skills make you capable — mindset makes you exceptional.
 
-![[Pasted image 20250531150318.png]]
+![Pasted image 20250531150318.png](./images/Pasted%20image%2020250531150318.png)
 
 ---
 ## Chapter 13: Strengthening Your Product Muscle
@@ -756,7 +756,7 @@ The more you **externalize your thinking**, the sharper your thinking becomes.
 > Product sense isn’t gifted. It’s trained.  
 > Deliberate, ongoing practice is how good PMs become great ones.
 
-![[Pasted image 20250531150518.png]]
+![Pasted image 20250531150518.png](./images/Pasted%20image%2020250531150518.png)
 
 ---
 ## Chapter 14: Onward
@@ -809,5 +809,5 @@ The more you **externalize your thinking**, the sharper your thinking becomes.
 > **You don’t need permission to be a great product thinker.**  
 > You just need practice, reflection, and the will to ship something that matters.
 
-![[Pasted image 20250531150855.png]]
+![Pasted image 20250531150855.png](./images/Pasted%20image%2020250531150855.png)
 
